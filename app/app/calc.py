@@ -1,7 +1,5 @@
-"""Fonction calculatrice"""
-
 def add(x, y):
-    """Ajoute X et Y pour obtenir le resultat."""
+    """Add x and y and return result."""
     return x + y
 
 
