@@ -1,5 +1,4 @@
-"""
-Fonction calculatrice
+"""Fonction calculatrice
 """
 
 def add(x, y):
